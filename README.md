@@ -1,3 +1,3 @@
 ## Dataquest Project Solutions
 
-This repository is a series of notebooks that show solutions for the projects at Dataquest.io.
+This repository is a series of notebooks that show the projects I have worked on Dataquest.io
